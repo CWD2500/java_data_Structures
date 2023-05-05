@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ds.Student"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.ds.DyamicArray"/>
+    <fullyQualifiedTypeName name="com.linked.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="com.QueuyArray.QueueyArray"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="linkedListQueue.QeueLinkedList"/>
+    <fullyQualifiedTypeName name="linkedListQueue.NodeDoble"/>
+    <fullyQualifiedTypeName name="com.HashTable.Entliy"/>
+    <fullyQualifiedTypeName name="com.HashTable.HashTable"/>
+    <fullyQualifiedTypeName name="com.Leaner.LInear"/>
+    <fullyQualifiedTypeName name="com.Leaner.Bineary"/>
+    <fullyQualifiedTypeName name="java.awt.HeadlessException"/>
+</qualifiedTypeNameHistroy>

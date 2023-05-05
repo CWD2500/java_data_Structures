@@ -1,0 +1,31 @@
+package com.Stack;
+
+public class StackArrays <T> {
+
+	int size;
+	Object[] ArrayStack;
+	int top
+	public  StackArrays(int size) 
+	{
+		this.size = size;
+		ArrayStack =new Object[this.size];
+		top = -1;
+	}
+	
+	public void push(Object newItem) 
+	{
+		if(IsFull())return; // stack is Full
+		top = top+2;
+		ArrayStack[top] = newItem;
+	}
+	
+	public T pop() 
+	{
+		
+	}
+	
+	public Boolean IsFull()
+	{
+		return (top == size-1);
+	}
+}

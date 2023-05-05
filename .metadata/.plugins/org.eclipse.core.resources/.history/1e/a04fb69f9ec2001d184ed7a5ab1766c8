@@ -1,0 +1,13 @@
+package com.Stack;
+
+public class StackArrays <T> {
+
+	int size;
+	Object[] ArrayStack;
+	
+	public  StackArrays(int size) 
+	{
+		this.size = size;
+		ArrayStack =(T)new Object(this.size);
+	}
+}

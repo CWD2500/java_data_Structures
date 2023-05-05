@@ -1,0 +1,10 @@
+package com.Stack;
+
+public class StackArrayDemo {
+
+	public static void main(String[] args) {
+		StackArrays<Integer> name = new StackArrays<Integer>(6);
+
+	}
+
+}

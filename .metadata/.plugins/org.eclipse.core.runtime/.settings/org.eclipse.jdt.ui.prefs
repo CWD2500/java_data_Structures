@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ds.Student"><rhs name\="com.ds.Student"/></lhs><lhs name\="com.ds.DyamicArray"><rhs name\="com.ds.DyamicArray"/></lhs><lhs name\="com.linked.LinkedList"><rhs name\="com.linked.LinkedList"/></lhs><lhs name\="com.QueuyArray.QueueyArray"><rhs name\="com.QueuyArray.QueueyArray"/></lhs><lhs name\="linkedListQueue.NodeDoble"><rhs name\="linkedListQueue.NodeDoble"/></lhs><lhs name\="linkedListQueue.QeueLinkedList"><rhs name\="linkedListQueue.QeueLinkedList"/></lhs><lhs name\="com.HashTable.Entliy"><rhs name\="com.HashTable.Entliy"/></lhs><lhs name\="com.HashTable.HashTable"><rhs name\="com.HashTable.HashTable"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
